@@ -38,6 +38,9 @@
 
 
     <ImageView
+        android:id="@+id/ivdialer"
+
+        android:clickable="true"
 
         android:layout_width="60dp"
 
