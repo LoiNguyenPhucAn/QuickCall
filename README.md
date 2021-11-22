@@ -15,3 +15,7 @@ Yêu cầu giao diện:
 -  Phần icon và tên danh bạ phải được bọc trong 1 background bo tròn
 
 -  Các danh bạ nằm thành từng hàng có kích thước tương đương nhau
+
+-  Người dùng click vào các item danh bạ để thực hiện cuộc gọi.
+
+-  Người dùng click vào icon dialpad để mở màn hình quay số điện thoại
